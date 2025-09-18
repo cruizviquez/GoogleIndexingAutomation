@@ -1,0 +1,9 @@
+google-auth==2.23.0
+google-auth-httplib2==0.1.1
+google-api-python-client==2.100.0
+feedparser==6.0.10
+python-dotenv==1.0.0
+requests==2.31.0
+ratelimit==2.2.1
+colorama==0.4.6
+tqdm==4.66.1
